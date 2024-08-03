@@ -1,3 +1,3 @@
-# pianfan.github.io
+# Zayric.github.io
 
-My Personal Blog via GitHub
+这是扎里克ZAYRIC的个人博客哦！
