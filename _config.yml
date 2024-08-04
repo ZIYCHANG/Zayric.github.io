@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Zayric
 
-url: https://Zayric.github.io
+url: https://zayric.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
