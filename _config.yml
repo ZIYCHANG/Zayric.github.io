@@ -2,8 +2,7 @@ name: "Zayric's blog"
 description: "昌昌的个人技术博客"
 
 avatar: https://github.com/ZIYCHANG/picx-images-hosting/raw/master/blog/avatar_cat.13lopwjs5v.webp
-favicon: https://www.picgo.net/image/favicon-Doge.kCSmGL
-
+favicon: [![favicon Doge](https://img.picgo.net/2024/08/04/favicon_Doge5d94e5df82818112.th.png)](https://www.picgo.net/image/favicon-Doge.kCSmGL)
 navigation:
   - name: 首页
     url: /
